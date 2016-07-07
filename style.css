@@ -1,0 +1,32 @@
+#timerValue {
+  font-size: 4em;
+}
+
+#addMin, #subMin {
+  width: 100px;
+}
+
+/* Generic Footer CSS for my "brand" */
+#contact, #copyright {
+  text-align: center;
+}
+
+.contactList {
+  list-style: none;
+  padding: 0px;
+}
+
+.contactList li {
+  margin: 10px;
+  display: inline-block;
+}
+
+.contactList li i {
+  padding: 5px;
+  color: #333;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.fa-facebook:hover, .fa-linkedin:hover, .fa-fire:hover, .fa-github:hover, .fa-instagram:hover {
+    color: #F78536;
+}
